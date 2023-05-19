@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Nidhi-MLH'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A9D481F4544249149789AC8607C4EB69 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4DA00C229EFF4C3BBF239D9B44DB53C1 }}
           package: .
